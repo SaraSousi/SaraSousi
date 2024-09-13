@@ -16,7 +16,8 @@ I'm Sara, a Senior Data Science Consultant at EY, and Research Fellow within UCL
 
 **🎓 Education**
 
-I hold a BSc (Hons) in Mathematics from the University of Warwick, and an MRes in Bioinformatics in Oncology, i.e., Computational Biology from Imperial College London with Distinction.
+- BSc (Hons) in Mathematics from the University of Warwick
+- MRes in Bioinformatics in Oncology (Computational Biology) from Imperial College London
 
 ----
 
