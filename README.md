@@ -63,7 +63,7 @@ I'm Sara, a Senior Data Science Consultant at EY, and Research Fellow within UCL
 - My page on UCL: [Sara Sousi](https://profiles.ucl.ac.uk/93990-sara-sousi) 🔗
 - GitHub: [Sara Sousi](https://github.com/SaraSousi) 🔗
 - Research Gate: [Sara Sousi](https://www.researchgate.net/profile/Sara_Sousi) 🔗
-- Google Scholar: [Sara Sousi]([https://www.researchgate.net/profile/Sara_Sousi](https://scholar.google.com/citations?user=P64jnJ8AAAAJ&hl=en&inst=4887157489608331491)) 🔗
+- Google Scholar: [Sara Sousi](https://scholar.google.com/citations?user=P64jnJ8AAAAJ&hl=en&inst=4887157489608331491) 🔗
 - My Newsletter: [Your Medical Scientist](https://sarasousi.substack.com/) 🔗
 
 <!--
