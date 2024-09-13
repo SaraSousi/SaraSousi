@@ -22,35 +22,36 @@ I hold a BSc (Hons) in Mathematics from the University of Warwick, and an MRes i
 
 **📚 Publications**
 
-1.	Zargaran A, Sousi S, Zargaran D, Mosahebi A, “A systematic review of Generative Adversarial Networks (GANs) in Plastic Surgery”; Journal of Plastic, Reconstructive & Aesthetic Surgery, 09 Apr. 2024
-2.	Glynou SP, Petmeza CA, Georgiannakis A, Sousi S et al. “Perceptions, Awareness and Influences of Medical Students towards Plastic Surgery: A Systematic Review”; Journal of Plastic, Reconstructive & Aesthetic Surgery, 08 Apr. 2024, doi: 10.1016/j.jpra.2024.04.003
-3.	Zargaran A, Sousi S, Zargaran D, Mosahebi A, “TikTok in Plastic Surgery: A Systematic Review of Its Uses”, Aesthetic Surgery Journal Open Forum, 1 September 2023, doi: 10.1093/asjof/ojad081
-4.	Zargaran D, Zargaran A, Sousi S, et al. “Quantitative and qualitative analysis of individual experiences post botulinum toxin injection - UK survey”, Skin Health & Disease, 3 July 2023, doi:10.1002/ski2.265
-5.	Zargaran D, Zargaran A, Sousi S, et al. “Cosmetic business mechanics in London: A cross-sectional analysis and audit of ASA compliance”; J Cosmetic Dermatology, 5 Apr. 2023, doi:10.1111/jocd.15750
-6.	Farzaneh et al. “Emergency burns education: an evaluation of a surgical simulation-based intervention”; Journal of Plastic, Reconstructive & Aesthetic Surgery, 21 Mar. 2023, doi:10.1016/j.bjps.2023.03.001
-7.	Motahariasl et al. “Assessment of an Articulating Laparoscopic Needle Holder (FlexDex™) Compared to a Conventional Rigid Needle Holder in 2-Dimension Vision Amongst Novices: A Randomised Controlled Study”; Medical Devices, 4 Feb. 2022, doi:10.2147/MDER.S345140
-8.	Motahariasl et al. “Evaluation of Advanced Bimanual Skills in Novices Using the Wrist-Like FlexDex Articulating Laparoscopic Needle Holder in 2D and 3D Vision: A Randomised Trial”; Medical Devices, 30 Dec. 2021, doi:10.2147/MDER.S344975
+1.  Zargaran A, et al. **Collaboration Network** (2024). Global surgery and public health in aesthetics. Bulletin of The Royal College of Surgeons of England, 106(S1), pp.6–9. doi: 10.1308/rcsbull.tb2024.12.
+2.	Zargaran A, **Sousi S**, et al., “A systematic review of Generative Adversarial Networks (GANs) in Plastic Surgery”; Journal of Plastic, Reconstructive & Aesthetic Surgery, 09 Apr. 2024
+3.	Glynou SP, Petmeza CA, Georgiannakis A, **Sousi S** et al. “Perceptions, Awareness and Influences of Medical Students towards Plastic Surgery: A Systematic Review”; Journal of Plastic, Reconstructive & Aesthetic Surgery, 08 Apr. 2024, doi: 10.1016/j.jpra.2024.04.003
+4.	Zargaran A, **Sousi S**, et al., “TikTok in Plastic Surgery: A Systematic Review of Its Uses”, Aesthetic Surgery Journal Open Forum, 1 September 2023, doi: 10.1093/asjof/ojad081
+5.	Zargaran D, Zargaran A, **Sousi S**, et al. “Quantitative and qualitative analysis of individual experiences post botulinum toxin injection - UK survey”, Skin Health & Disease, 3 July 2023, doi:10.1002/ski2.265
+6.	Zargaran D, Zargaran A, **Sousi S**, et al. “Cosmetic business mechanics in London: A cross-sectional analysis and audit of ASA compliance”; J Cosmetic Dermatology, 5 Apr. 2023, doi:10.1111/jocd.15750
+7.	Farzaneh et al. “Emergency burns education: an evaluation of a surgical simulation-based intervention”; Journal of Plastic, Reconstructive & Aesthetic Surgery, 21 Mar. 2023, doi:10.1016/j.bjps.2023.03.001
+8.	Motahariasl et al. “Assessment of an Articulating Laparoscopic Needle Holder (FlexDex™) Compared to a Conventional Rigid Needle Holder in 2-Dimension Vision Amongst Novices: A Randomised Controlled Study”; Medical Devices, 4 Feb. 2022, doi:10.2147/MDER.S345140
+9.	Motahariasl et al. “Evaluation of Advanced Bimanual Skills in Novices Using the Wrist-Like FlexDex Articulating Laparoscopic Needle Holder in 2D and 3D Vision: A Randomised Trial”; Medical Devices, 30 Dec. 2021, doi:10.2147/MDER.S344975
 
 **📚 Publications Under Peer-Review** 
 
-1.	Ahmed Z, Zargaran A, Zargaran D, Sousi S et al., “Sustainability in reconstructive breast surgery: An eco-audit of the Deep Inferior Epigastric Perforator (DIEP) flap pathway”
-2.	Zargaran A, Sousi S, et al., “Beyond the algorithms – an analysis of the composition and ethnic diversity of facial image databases in Plastic Surgery”
-3.	Zargaran A, Sousi S, et al., “The COVID-19 early detection in doctors and healthcare workers (CEDiD Study): A cohort study”
-4.	Glynou SP, Georgiannakis A, Sousi S, et al., “Sustainable Practices in Outpatient Surgery: An Eco-Audit of Nail Bed Injury Treatments”
-5.	Hannah C, Glynou SP, Sousi S, et al., “Does the use of Acellular Dermal Matrices (ADM) in women undergoing pre-pectoral implant-based breast reconstruction increase operative success versus non-use of ADM in the same setting? A systematic review” 
-6.	Iakovou D, Sousi S, et al., “A systematic review of Sustainability Practises in Plastic Surgery” 
-7.	Glynou SP, Sousi S, et al., “A comparison of Acellular Dermal Matrices (ADM) efficacy and complication profile in women undergoing implant-based breast reconstruction: A Systematic Review and Network Meta-analysis”
-8.	Sousi S, et al., “Conversational Artificial Intelligence in Surgery: A systematic review” 
-9.	Zargaran D, Zargaran D, Sousi S, et al., “Delphi Consensus to improve patient safety in the aesthetic injectables market: Consensus, Controversies and the 5Ps Framework” 
+1.	Ahmed Z, Zargaran A, Zargaran D,**Sousi S**, et al., “Sustainability in reconstructive breast surgery: An eco-audit of the Deep Inferior Epigastric Perforator (DIEP) flap pathway”
+2.	Zargaran A, **Sousi S**, et al., “Beyond the algorithms – an analysis of the composition and ethnic diversity of facial image databases in Plastic Surgery”
+3.	Zargaran A, **Sousi S**, et al., “The COVID-19 early detection in doctors and healthcare workers (CEDiD Study): A cohort study”
+4.	Glynou SP, Georgiannakis A, **Sousi S**, et al., “Sustainable Practices in Outpatient Surgery: An Eco-Audit of Nail Bed Injury Treatments”
+5.	Hannah C, Glynou SP, **Sousi S**, et al., “Does the use of Acellular Dermal Matrices (ADM) in women undergoing pre-pectoral implant-based breast reconstruction increase operative success versus non-use of ADM in the same setting? A systematic review” 
+6.	Iakovou D, **Sousi S**, et al., “A systematic review of Sustainability Practises in Plastic Surgery” 
+7.	Glynou SP, **Sousi S**, et al., “A comparison of Acellular Dermal Matrices (ADM) efficacy and complication profile in women undergoing implant-based breast reconstruction: A Systematic Review and Network Meta-analysis”
+8.	**Sousi S**, et al., “Conversational Artificial Intelligence in Surgery: A systematic review” 
+9.	Zargaran D, Zargaran D,**Sousi S**, et al., “Delphi Consensus to improve patient safety in the aesthetic injectables market: Consensus, Controversies and the 5Ps Framework” 
 
 **📄 Abstracts** 
 
-1.	Zargaran A, Sousi S, et al. “584 A Systematic Review of Generative Adversarial Networks (GANs) in Plastic Surgery”, British Journal of Surgery, July 2024, doi:10.1093/bjs/znae163.164
-2.	Zargaran D, Zargaran A, Sousi S, et al. “725 Delphi Consensus to Improve Patient Safety in the Aesthetic Injectables Market: Consensus, Controversies and the 5Ps Framework”, British Journal of Surgery, July 2024, doi:10.1093/bjs/znae163.165
-3.	Zargaran D, Zargaran A, Sousi S, Mosahebi A, “P261: Metaverse gamified aesthetic education – a think-aloud usability pilot study”, British Journal of Surgery, March 2024, doi: 10.1093/bjs/znae046.123
-4.	Zargaran D, Zargaran A, Sousi S, et al., “O165 Cosmetic business mechanics in London: a cross-sectional analysis and audit of ASA compliance”, British Journal of Surgery, May 2023, doi: 10.1093/bjs/znad101.165
-5.	Kasaven L, Jones B, Saravelos S, Ben Nagi J, El- Bahrawy M, Sousi S, et al. “EP47. 06: Reproductive outcomes in women with borderline ovarian tumours”, Ultrasounds in Obstetrics & Gynaecology, September 2022, doi: 10.1002/uog.26003
-6.	Kasaven L, Jones B, Saravelos S, Ben Nagi J, El- Bahrawy M, Sousi S, et al. “O-193 Reproductive outcomes in women with Borderline Ovarian Tumours. Does fertility treatment increase the risk of disease recurrence?”, Human Reproduction, July 2022, doi: 10.1093/humrep/deac105.107
+1.	Zargaran A, **Sousi S**, et al. “584 A Systematic Review of Generative Adversarial Networks (GANs) in Plastic Surgery”, British Journal of Surgery, July 2024, doi:10.1093/bjs/znae163.164
+2.	Zargaran D, Zargaran A, **Sousi S**, et al. “725 Delphi Consensus to Improve Patient Safety in the Aesthetic Injectables Market: Consensus, Controversies and the 5Ps Framework”, British Journal of Surgery, July 2024, doi:10.1093/bjs/znae163.165
+3.	Zargaran D, Zargaran A, **Sousi S**, Mosahebi A, “P261: Metaverse gamified aesthetic education – a think-aloud usability pilot study”, British Journal of Surgery, March 2024, doi: 10.1093/bjs/znae046.123
+4.	Zargaran D, Zargaran A, **Sousi S**, et al., “O165 Cosmetic business mechanics in London: a cross-sectional analysis and audit of ASA compliance”, British Journal of Surgery, May 2023, doi: 10.1093/bjs/znad101.165
+5.	Kasaven L, Jones B, Saravelos S, Ben Nagi J, El- Bahrawy M, **Sousi S**, et al. “EP47. 06: Reproductive outcomes in women with borderline ovarian tumours”, Ultrasounds in Obstetrics & Gynaecology, September 2022, doi: 10.1002/uog.26003
+6.	Kasaven L, Jones B, Saravelos S, Ben Nagi J, El- Bahrawy M, **Sousi S**, et al. “O-193 Reproductive outcomes in women with Borderline Ovarian Tumours. Does fertility treatment increase the risk of disease recurrence?”, Human Reproduction, July 2022, doi: 10.1093/humrep/deac105.107
 7.	Farzaneh SB, et al., “409 Evaluation of Advanced Bimanual Skills in Novices Using the Wrist-Like FlexDex™ Articulating Laparoscopic Needle Holder in 2D and 3D Vision: A Randomised Trial”, British Journal of Surgery, September 2022, doi: 10.1093/bjs/znac269.256
 8.	Farzaneh SB, et al., “422 Assessment of an Articulating Laparoscopic Needle Holder (FlexDex™) Compared to a Conventional Rigid Needle Holder in 2-Dimension Vision Amongst Novices: A Randomised Controlled Study”, British Journal of Surgery, September 2022, doi: 10.1093/bjs/znac269.398
 
