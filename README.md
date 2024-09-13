@@ -43,7 +43,7 @@ I'm Sara, a Senior Data Science Consultant at EY, and Research Fellow within UCL
 6.	Iakovou D, **Sousi S**, et al., “A systematic review of Sustainability Practises in Plastic Surgery” 
 7.	Glynou SP, **Sousi S**, et al., “A comparison of Acellular Dermal Matrices (ADM) efficacy and complication profile in women undergoing implant-based breast reconstruction: A Systematic Review and Network Meta-analysis”
 8.	**Sousi S**, et al., “Conversational Artificial Intelligence in Surgery: A systematic review” 
-9.	Zargaran D, Zargaran D,**Sousi S**, et al., “Delphi Consensus to improve patient safety in the aesthetic injectables market: Consensus, Controversies and the 5Ps Framework” 
+9.	Zargaran D, Zargaran D, **Sousi S**, et al., “Delphi Consensus to improve patient safety in the aesthetic injectables market: Consensus, Controversies and the 5Ps Framework” 
 
 **📄 Abstracts** 
 
