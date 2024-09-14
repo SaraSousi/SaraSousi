@@ -2,7 +2,7 @@
 
 I'm Sara, a Senior Data Science Consultant at EY, and Research Fellow within UCL's Department of Surgical Biotechnology and KCL's King's Health Partners. 
 
-👩🏻‍💻 At EY I work with and advise healthcare and life-science entities (NHS Trusts, Biotechs, Pharmaceuticals, healthcare startups) on:
+👩🏻‍💻 At EY I work with and advise healthcare and life-science entities (Hospitals, Biotechs, Pharmaceuticals, healthcare startups) on:
 
 1. Go-to-market and market entry strategy
 2. Commercial due diligence
