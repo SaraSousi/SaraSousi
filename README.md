@@ -1,7 +1,7 @@
 #### Hi!
 I'm Sara, a biostatistician, data scientist, and ex-consultant!
 
-I am passionate about harnessing real world data and technology to drive evidence-based decisions and improve healthcare outcomes. In my research, I use routinely collected data (hospital episode records) to measure and explain variations in healthcare outcomes, with the aim of improving patient care. I also have worked with pervasive monitoring data (i.e., wearables) and large biobanks, like WSIC, UK Biobank, and CPRD. Having published 20+ studies, in a range of themes.
+I am passionate about harnessing real world data and technology to drive evidence-based decisions and improve healthcare outcomes. In my research, I use routinely collected data (hospital episode records) to measure and explain variations in healthcare outcomes, with the aim of improving patient care. I also have worked with pervasive monitoring data (i.e., wearables) and large biobanks, like WSIC, UK Biobank, TriNetX and CPRD. Having published 35+ studies, in a range of themes.
 
 * 👩🏻‍💻 I am currently pursuing a [PhD in AI and digital health](https://profiles.imperial.ac.uk/s.sousi19/about) at Imperial College London
 * 📚 Prior to my PhD, I spent 4 years at EY-P as a senior strategy and data science consultant in the healthcare and life-sciences space
